@@ -1,9 +1,9 @@
 {
   "type": "micro",
-  "wake_word": "Okay Nabu",
-  "author": "Kevin Ahrendt",
-  "website": "https://www.kevinahrendt.com/",
-  "model": "okay_nabu.tflite",
+  "wake_word": "Hey BOTty",
+  "author": "Denis Krasavin",
+  "website": "https://www.casabot.com/",
+  "model": "Hey_Bahtee.tflite",
   "trained_languages": ["en","nl","fr","de","it","es","sv"],
   "version": 2,
   "micro": {
