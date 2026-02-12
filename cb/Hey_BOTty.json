@@ -3,7 +3,7 @@
   "wake_word": "Hey BOTty",
   "author": "Denis Krasavin",
   "website": "https://www.casabot.com/",
-  "model": "hey_botty_small_int8.tflite",
+  "model": "hey_botty_quant.tflite",
   "trained_languages": ["en"],
   "version": 2,
   "micro": {
